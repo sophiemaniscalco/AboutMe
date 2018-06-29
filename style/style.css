@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(232, 198, 245);
+    
+    font-size: 100%;
+  }
+h1 {font-family: 'Clicker Script', cursive;
+font-size: 700%;
+color:rgb(223, 28, 174);
+    }
+  img {
+      width: 15%;
+  }
+  
+.insta {
+    position: fixed;
+    top: 99px;
+    right: 25.7px;
+}
+
+.vsco {
+    width: 75px;
+    height: 200px;
+    position: fixed;
+    top: 160px;
+    right: 3px;
+}
+  .secondBox {
+    width: 75px;
+    height: 200px;
+    background-color: rgb(223, 28, 174);
+    position: fixed;
+    top: 80px;
+    right: 10px;
+
+}
+
+.photo2 {
+    position: absolute;
+    top: 237px;
+    right 48px;
+}
+
+.photo3 {
+    position: absolute;
+    top 237px;
+    top: 237px;
+    right: 10px;
+}
+
+.photo4 {
+    position: absolute;
+    top: 1800px;
+    right: 2px;
+    left:4px;
+}
+
+.photo5 {
+    position: absolute;
+    top 237px;
+    top: 600px;
+    right: 10px;
+}
+
+.photo6 {
+    position: absolute;
+    top: 600px;
+    right 48px;
+}
+
+.photo7 {
+    position: absolute;
+    top: 1300px;
+    right 48px;
+}
+
+
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 250%;
+    color: rgb(223, 28, 174);
+}
+
+h3 {
+    font-family: 'Handlee', cursive;
+    font-size: 110%;
+    color: rgb(114, 15, 128);
+}
+
+p {
+
+    font-family: 'Handlee', cursive;
+    font-size: 110%;
+    color: rgb(114, 15, 128);
+}
